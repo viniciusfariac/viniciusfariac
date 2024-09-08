@@ -1,4 +1,4 @@
-# Olá, sou [Vinicius Faria Cerqueira]! 👋
+# Olá, sou Vinicius Faria Cerqueira! 👋
 ## Bem-vindo ao meu perfil
 
 ### Me encontre em outros lugares 🌍:
