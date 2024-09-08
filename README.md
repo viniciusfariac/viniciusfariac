@@ -2,10 +2,10 @@
 ## Bem-vindo ao meu perfil
 
 ### Me encontre em outros lugares 🌍:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:seuemail@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord)](https://discord.com/users/seu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://instagram.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]()
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:vfariacerqueira@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord)]()
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/v_f4ria)
 
 ---
 
