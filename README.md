@@ -1,9 +1,11 @@
 # Olá, sou Vinicius Faria Cerqueira! 👋
 ## Bem-vindo ao meu perfil
+---
+Sou aluno do Colégio Victorino aprendendo desenvolvimento web.
 
 ### Me encontre em outros lugares 🌍:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]()
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:vfariacerqueira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=vfariacerqueira@gmail.com&tf=cm)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord)]()
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/v_f4ria)
 
@@ -28,7 +30,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌐 Formação:
-- 🏆 Concluí meu curso de inglês no **CNA**
+### 🎓 Certificações e Cursos:
+- Certificação Linguaskill - Cambridge (2024)
 
+---
+### 🎨 Hobbies e Interesses
+- Jogo volei
+- Faço academia
+- Ação e suspense
 ---
