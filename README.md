@@ -4,7 +4,7 @@
 Sou aluno do Colégio Victorino aprendendo desenvolvimento web.
 
 ### Me encontre em outros lugares 🌍:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vinicius-faria-cerqueira-62347632a/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=vfariacerqueira@gmail.com&tf=cm)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord)]()
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/v_f4ria)
