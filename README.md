@@ -38,3 +38,5 @@ Sou aluno do Colégio Victorino aprendendo desenvolvimento web.
 - Faço academia
 - Ação e suspense
 ---
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusfariac&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfariac&layout=compact)
