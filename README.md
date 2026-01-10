@@ -1,8 +1,9 @@
 # 👋 Olá, sou **Vinicius Faria Cerqueira**
 
-## 🎯 Sobre mim  
-Sou estudante de TI no Colégio Victorino e estou construindo minha base em **desenvolvimento web**, **programação** e **automação**.  
-Atualmente foco em aprender ferramentas e tecnologias que me permitem criar sistemas reais, automatizar tarefas e desenvolver soluções inteligentes.
+💻 Estudante de TI com curso técnico voltado para informática para internet e informática
+🚀 Estou focnando em **desenvolvimento web**, **automação**, **programação**, **dados**
+
+Atualmente estou construindo minha base prática criando projetos reais.
 
 
 ## 🌍 Onde me encontrar
@@ -24,6 +25,14 @@ Atualmente foco em aprender ferramentas e tecnologias que me permitem criar sist
 ### **Automação**
 ![n8n](https://img.shields.io/badge/n8n-F0406B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Python — Data, Automação & IA
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium)
+![Requests](https://img.shields.io/badge/Requests-000000?style=flat)
+![Groq](https://img.shields.io/badge/Groq-AI-ff6f00?style=flat)
 
 ### **Sistemas Operacionais**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
