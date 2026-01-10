@@ -38,8 +38,9 @@ Atualmente foco em aprender ferramentas e tecnologias que me permitem criar sist
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusfariac&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfariac&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusfariac&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfariac&layout=compact&theme=tokyonight)
+
 
 ## 🎓 Certificações
 - **Linguaskill – Cambridge (2024)**
