@@ -1,7 +1,7 @@
 # 👋 Olá, sou **Vinicius Faria Cerqueira**
 
-💻 Estudante de TI com curso técnico voltado para informática para internet e informática
-🚀 Estou focnando em **desenvolvimento web**, **automação**, **programação**, **dados**
+💻 Estudante de TI com curso técnico voltado para informática para internet e informática, fazendo faculdade de ciência da computação na São Paulo Tech School
+🚀 Estou focando em **desenvolvimento web**, **automação**, **programação**, **dados**
 
 Atualmente estou construindo minha base prática criando projetos reais.
 
