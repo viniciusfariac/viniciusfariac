@@ -11,24 +11,6 @@ Gosto de pegar um problema do mundo real (mesmo que pequeno) e transformar em c�
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:vfariacerqueira@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://www.instagram.com/v_f4ria)
 
-## 🚀 Projetos em destaque
-
-### 🎙️ [VictorIA — Assistente Virtual por Voz](https://github.com/viniciusfariac/victorIA)
-Assistente de voz com IA criado para a Feira Cultural do Colégio Victorino. Ouve, transcreve, interpreta com RAG sobre uma base de PDFs e responde por voz em tempo real.
-`Python` `LangChain` `Groq LLM` `Whisper` `ChromaDB` `Tkinter` `Edge TTS`
-
-### 🤖 [Generative AI Pipeline](https://github.com/viniciusfariac/generative_ai_pipeline)
-Pipeline ETL completo que extrai dados de clientes, gera mensagens de marketing personalizadas com IA generativa e persiste os resultados — adaptado do desafio do BootCamp Santander de Ciência de Dados (DIO).
-`Python` `ETL` `IA Generativa` `Pandas`
-
-### 🏋️ [My Gym](https://github.com/viniciusfariac/projeto-my-gym)
-Aplicação web desenvolvida para a faculdade: cadastro de usuários com persistência em banco de dados, página institucional e dashboard onde o aluno acompanha frequência, cargas e repetições dos treinos para evoluir com mais consciência.
-`Web` `Banco de Dados`
-
-### 🗄️ [Pre University Studies](https://github.com/viniciusfariac/pre_university_studies)
-Back-end para gestão de sala de aula com gráficos, lógica de programação, estruturas condicionais e de repetição, funções, SQL e integração com banco de dados — a base que sustenta os projetos de backend.
-`Python` `SQL` `PostgreSQL` `MariaDB`
-
 ## 🔧 Tecnologias e Ferramentas
 
 ### Linguagens
